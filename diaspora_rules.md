@@ -1,3 +1,5 @@
+# Diaspora Rules
+
 **Deck contents**
 
 Each deck includes 60 cards: 21 _Nodes_ and 39 _Colony_ cards. Colonies are divided equally between the three _Colony_ types; _Culture_, _Military_ and _Economy_. Each _Colony_ type has three levels — 2x level three, 4x level two and 7x level one.
